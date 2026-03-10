@@ -20,22 +20,22 @@ Manual monitoring is inefficient, so an automated monitoring and alert system is
 
 --- PROPOSED SOLUTION---
 
-1)This project proposes a simple and cost-effective IoT-based monitoring system using:
-2)ESP32 microcontroller
-3)DHT22 temperature and humidity sensor
-4)Blynk mobile application
-5)Local alert system (buzzer / LED)
-6)When abnormal conditions are detected, the system sends instant alerts to the user and activates a local buzzer alarm.
+* This project proposes a simple and cost-effective IoT-based monitoring system using:
+* ESP32 microcontroller
+* DHT22 temperature and humidity sensor
+* Blynk mobile application
+* Local alert system (buzzer / LED)
+* When abnormal conditions are detected, the system sends instant alerts to the user and activates a local buzzer alarm.
 
 ---SYSTEM COMPONENT--
 
-1)Component	Description
-2)ESP32	Main microcontroller for data processing and IoT communication
-3)DHT22 Sensor	Measures temperature and humidity
-4)Buzzer / LED	Provides local alerts when unsafe conditions occur
-5)WiFi (ESP32 built-in)	Sends data to cloud server
-6)Blynk App	Displays sensor data and sends notifications
-7) Solar Panel (Optional)	Provides eco-friendly power supply
+* Component	Description
+* ESP32	Main microcontroller for data processing and IoT communication
+* DHT22 Sensor	Measures temperature and humidity
+* Buzzer / LED	Provides local alerts when unsafe conditions occur
+* WiFi (ESP32 built-in)	Sends data to cloud server
+* Blynk App	Displays sensor data and sends notifications
+* Solar Panel (Optional)	Provides eco-friendly power supply
 
 ---WORKING PRINCIPLE---
 
@@ -49,12 +49,12 @@ Manual monitoring is inefficient, so an automated monitoring and alert system is
 
 ---ADVANTAGES---
 
-1)Real-time monitoring of grain storage conditions
-2)Automatic alerts and notifications
-3)Prevents grain spoilage and financial loss
-4)Low-cost and easy to implement
-5)Energy-efficient with solar power support
-6)Minimal manual monitoring required
+* Real-time monitoring of grain storage conditions
+* Automatic alerts and notifications
+* Prevents grain spoilage and financial loss
+* Low-cost and easy to implement
+* Energy-efficient with solar power support
+* Minimal manual monitoring required
 
 ---APPLICATIONS---
 
